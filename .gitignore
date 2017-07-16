@@ -84,4 +84,4 @@ ENV/
 
 .idea
 *.swp
-MNIST_data/
+MNIST-data/
